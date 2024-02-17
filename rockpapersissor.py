@@ -1,3 +1,4 @@
+#Rock Paper Sissor 
 import random
 a = int(input("enter your move(rock,paperor sissor):"))
 print("your trun")
