@@ -1,3 +1,4 @@
+#This is a game to guess numbers 
 import random
 number = random.randint(0, 300)
 print(" guess number between 0 to 300")
