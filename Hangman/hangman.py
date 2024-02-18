@@ -1,4 +1,4 @@
-# This is a hangman game
+# Hangman game
 import random
 from art import lost, logo
 from words import word_list
