@@ -25,10 +25,10 @@ This directory contains a series of Python games I created with the intention of
 - Repository: [itsmenisha/Bidder](https://github.com/itsmenisha/Bidder)
 
 
-### [coin_toss](https://github.com/itsmenisha/Python-Games/blob/main/cointoss.py))
+### [coin_toss](https://github.com/itsmenisha/Python-Games/blob/main/cointoss.py)
 
 - Description: A simple coin toss game.
-- Repository: [coin_toss](https://github.com/itsmenisha/Python-Games/blob/main/cointoss.py))
+- Repository: [coin_toss](https://github.com/itsmenisha/Python-Games/blob/main/cointoss.py)
 
 
 ### [Number Guessing Game](https://github.com/itsmenisha/NumberGuessingGame)
