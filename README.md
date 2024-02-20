@@ -7,17 +7,21 @@ This directory contains a series of Python games I created with the intention of
 1. Coin Toss<br>
 2. Number Guessing Game<br>
 3. Password Generator<br>
-4. Hangman<br>
-5. Bidder game<br>
+4. Bidder game<br>
+5. Hangman<br>
 6. Rock-Paper-Scissors<br>
 7. Tic-Tac-Toe
 
 ## Game description
-### [Hangman](https://github.com/itsmenisha/Python-Games/blob/main/guessinggame.py)
+### [Coin Toss](https://github.com/itsmenisha/Python-Games/blob/main/cointoss.py)
 
-- Description: A classic word-guessing game.
-- Repository: [Hangman](https://github.com/itsmenisha/Python-Games/blob/main/guessinggame.py)
+- Description: A simple coin toss game.
+- Repository: [coin_toss](https://github.com/itsmenisha/Python-Games/blob/main/cointoss.py)
+  
+### [Number Guessing Game](https://github.com/itsmenisha/Python-Games/blob/main/guessinggame.py)
 
+- Description: A simple coin toss game.
+- Repository: [Guessing_Game](https://github.com/itsmenisha/Python-Games/blob/main/guessinggame.py)
 
 ### [Bidder game](https://github.com/itsmenisha/Bidder)
 
@@ -48,6 +52,10 @@ This directory contains a series of Python games I created with the intention of
 - Description: Play the classic game of Rock-Paper-Scissors.
 - Repository: [Rock_Paper_Scissors](https://github.com/itsmenisha/Python-Games/blob/main/rockpapersissor.py)
 
+### [Hangman](https://github.com/itsmenisha/Python-Games/blob/main/Hangman/hangman.py)
+
+- Description: A classic word-guessing game.
+- Repository: [Hangman](https://github.com/itsmenisha/Python-Games/blob/main/Hangman/hangman.py)
 
 ### [Tic-Tac-Toe](https://github.com/itsmenisha/TicTacToe)
 
