@@ -20,42 +20,28 @@ This directory contains a series of Python games I created with the intention of
   
 ### [Number Guessing Game](https://github.com/itsmenisha/Python-Games/blob/main/guessinggame.py)
 
-- Description: A simple coin toss game.
-- Repository: [Guessing_Game](https://github.com/itsmenisha/Python-Games/blob/main/guessinggame.py)
-
-### [Bidder game](https://github.com/itsmenisha/Bidder)
-
-- Description: Add files via upload
-- Repository: [itsmenisha/Bidder]()
-
-
-### [Coin Toss](https://github.com/itsmenisha/Python-Games/blob/main/cointoss.py)
-
-- Description: A simple coin toss game.
-- Repository: [coin_toss](https://github.com/itsmenisha/Python-Games/blob/main/cointoss.py)
-
-
-### [Number Guessing Game](https://github.com/itsmenisha/Python-Games/blob/main/guessinggame.py)
-
 - Description: Guess a randomly selected number within a range.
 - Repository: [Guessing_Game](https://github.com/itsmenisha/Python-Games/blob/main/guessinggame.py)
-
 
 ### [Password Generator](https://github.com/itsmenisha/Python-Games/blob/main/passwordgenerator.py)
 
 - Description: A tool to generate random passwords.
 - Repository: [Password_Generator](https://github.com/itsmenisha/Python-Games/blob/main/passwordgenerator.py)
 
+### [BidderGame](https://github.com/itsmenisha/Python-Games/blob/main/Bidder/bidder.py)
+
+- Description: Add files via upload
+- Repository: [bidder_game](https://github.com/itsmenisha/Python-Games/blob/main/Bidder)
+  
+### [Hangman](https://github.com/itsmenisha/Python-Games/blob/main/Hangman/hangman.py)
+
+- Description: A classic word-guessing game.
+- Repository: [Hangman](https://github.com/itsmenisha/Python-Games/blob/main/Hangman)
 
 ### [Rock-Paper-Scissors](https://github.com/itsmenisha/Python-Games/blob/main/rockpapersissor.py)
 
 - Description: Play the classic game of Rock-Paper-Scissors.
 - Repository: [Rock_Paper_Scissors](https://github.com/itsmenisha/Python-Games/blob/main/rockpapersissor.py)
-
-### [Hangman](https://github.com/itsmenisha/Python-Games/blob/main/Hangman/hangman.py)
-
-- Description: A classic word-guessing game.
-- Repository: [Hangman](https://github.com/itsmenisha/Python-Games/blob/main/Hangman/hangman.py)
 
 ### [Tic-Tac-Toe](https://github.com/itsmenisha/TicTacToe)
 
