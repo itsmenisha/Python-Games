@@ -43,10 +43,10 @@ This directory contains a series of Python games I created with the intention of
 - Description: Play the classic game of Rock-Paper-Scissors.
 - Repository: [Rock_Paper_Scissors](https://github.com/itsmenisha/Python-Games/blob/main/rockpapersissor.py)
 
-### [Tic-Tac-Toe](https://github.com/itsmenisha/TicTacToe)
+### [Tic-Tac-Toe](https://github.com/itsmenisha/Python-Games/blob/main/tictactoe.py)
 
 - Description: A simple implementation of Tic-Tac-Toe.
-- Repository: [itsmenisha/TicTacToe](https://github.com/itsmenisha/TicTacToe)
+- Repository: [TicTacToe](https://github.com/itsmenisha/Python-Games/blob/main/tictactoe.py)
 
 
 Feel free to explore and enjoy these games!
