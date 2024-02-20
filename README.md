@@ -11,12 +11,12 @@ Hangman
 Bidder
 Rock-Paper-Scissors
 Tic-Tac-Toe
+
 ## Game description
 ### [Hangman](https://github.com/itsmenisha/Hangman)
 
 - Description: A classic word-guessing game.
 - Repository: [itsmenisha/Hangman](https://github.com/itsmenisha/Hangman)
-- Latest Commit: [View Commit](https://github.com/itsmenisha/Hangman/commit/c3c0e1a)
 
 
 ### [Bidder](https://github.com/itsmenisha/Bidder)
