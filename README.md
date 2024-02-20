@@ -13,16 +13,16 @@ This directory contains a series of Python games I created with the intention of
 7. Tic-Tac-Toe
 
 ## Game description
-### [Hangman](https://github.com/itsmenisha/Hangman)
+### [Hangman](https://github.com/itsmenisha/Python-Games/blob/main/guessinggame.py)
 
 - Description: A classic word-guessing game.
-- Repository: [itsmenisha/Hangman](https://github.com/itsmenisha/Hangman)
+- Repository: [Hangman](https://github.com/itsmenisha/Python-Games/blob/main/guessinggame.py)
 
 
 ### [Bidder game](https://github.com/itsmenisha/Bidder)
 
 - Description: Add files via upload
-- Repository: [itsmenisha/Bidder](https://github.com/itsmenisha/Bidder)
+- Repository: [itsmenisha/Bidder]()
 
 
 ### [Coin Toss](https://github.com/itsmenisha/Python-Games/blob/main/cointoss.py)
@@ -31,22 +31,22 @@ This directory contains a series of Python games I created with the intention of
 - Repository: [coin_toss](https://github.com/itsmenisha/Python-Games/blob/main/cointoss.py)
 
 
-### [Number Guessing Game](https://github.com/itsmenisha/NumberGuessingGame)
+### [Number Guessing Game](https://github.com/itsmenisha/Python-Games/blob/main/guessinggame.py)
 
 - Description: Guess a randomly selected number within a range.
-- Repository: [Guessing Game](hhttps://github.com/itsmenisha/Python-Games/commit/84bad2d42d1c9db2568a1d2be0d3c2bfb60eb916)
+- Repository: [Guessing_Game](https://github.com/itsmenisha/Python-Games/blob/main/guessinggame.py)
 
 
-### [Password Generator](https://github.com/itsmenisha/PasswordGenerator)
+### [Password Generator](https://github.com/itsmenisha/Python-Games/blob/main/passwordgenerator.py)
 
 - Description: A tool to generate random passwords.
-- Repository: [itsmenisha/PasswordGenerator](https://github.com/itsmenisha/PasswordGenerator)
+- Repository: [Password_Generator](https://github.com/itsmenisha/Python-Games/blob/main/passwordgenerator.py)
 
 
-### [Rock-Paper-Scissors](https://github.com/itsmenisha/RockPaperScissors)
+### [Rock-Paper-Scissors](https://github.com/itsmenisha/Python-Games/blob/main/rockpapersissor.py)
 
 - Description: Play the classic game of Rock-Paper-Scissors.
-- Repository: [itsmenisha/RockPaperScissors](https://github.com/itsmenisha/RockPaperScissors)
+- Repository: [Rock_Paper_Scissors](https://github.com/itsmenisha/Python-Games/blob/main/rockpapersissor.py)
 
 
 ### [Tic-Tac-Toe](https://github.com/itsmenisha/TicTacToe)
