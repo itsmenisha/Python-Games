@@ -50,6 +50,6 @@ This directory contains a series of Python games I created with the intention of
 
 
 Feel free to explore and enjoy these games!
-a
+
 
 
